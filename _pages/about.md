@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "On a mission to contribute to building AI that speaks every language’s truth, reflects cultural diver-
+sity, and ensures no voice gets lost in translation."
 author_profile: true
 redirect_from: 
   - /about/
