@@ -1,14 +1,17 @@
 ---
 permalink: /
-title: "On a mission to contribute to building AI that speaks every language’s truth, reflects cultural diver-
-sity, and ensures no voice gets lost in translation."
+title: "On a mission to contribute to building AI that speaks every language’s truth, reflects cultural diversity, and ensures no voice gets lost in translation."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hi! I'm Aditi, a first-year Computer Science Ph.D. student at McGill University and MILA – Quebec AI Institute, advised by Prof. Siva Reddy and Prof. Golnoosh Farnadi.
+
+Before starting my Ph.D., I spent two years at Microsoft in the Turing Team, working with Prof. Monojit Choudhury on human-values alignment, ethical reasoning and value pluralism in large language models (LLMs). I also worked on training of the state-of-the-art Visual Document Understanding model at Microsoft Turing and contributed to building Bing Copilot Chat, focusing on chat answer evaluations, developing and training next user message suggestions models, and more.
+
+My research interests lie in making language technologies more representative and adaptive to the complex interplay of languages and cultures. I aim to develop inclusive AI systems that equitably serve diverse global populations. Additionally, I am passionate about expanding the general capabilities of language and multimodal models.
 
 A data-driven personal website
 ======
