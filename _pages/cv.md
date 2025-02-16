@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, McGill University and MILA - Quebec AI Institute, 2028 (expected)
+* Bachelor in Electrical Engineering, Indian Institute of Technology Delhi (2018-2022)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022 - 2024: Research Fellow at Microsoft
+  * In Microsoft Turing team (now Bing Copilot)
+  * Worked on research problems in ethical alignment, moral reasoning and foreign language effect in LLMs. Also worked on Bing Copilot - trained and deployed the next user message suggestion model for Bing Chat, worked on conversation quality evaluation metrics of Bing Copilot. Also worked on multimodal models for visual document understanding.
+  * Supervisor: Dr. Monojit Choudhury, Dr. Subhojit Som, Vishrav Chaudhary
 
 * Fall 2015: Research Assistant
   * Github University
