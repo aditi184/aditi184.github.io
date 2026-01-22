@@ -22,6 +22,8 @@ When you are initially working your website, it is very useful to be able to pre
 1. Clone the repository and made updates as detailed above.
 1. Make sure you have ruby-dev, bundler, and nodejs installed
     
+    **If you have sudo access:**
+    
     On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
     ```bash
     sudo apt install ruby-dev ruby-bundler nodejs
@@ -32,10 +34,20 @@ When you are initially working your website, it is very useful to be able to pre
     brew install node
     gem install bundler
     ```
+    
+    **If you don't have sudo access (e.g., on shared compute nodes):**
+    
+    Install Ruby and build tools via conda in your environment:
+    ```bash
+    module load miniconda/3  # or your conda module
+    conda activate <your-env>
+    conda install -c conda-forge ruby gcc_linux-64 gxx_linux-64 make nodejs
+    gem install bundler
+    ```
+    
+    If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make` (or use conda: `conda install -c conda-forge gcc_linux-64 gxx_linux-64 make`)
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
-
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
 
 ## Using Docker
 
