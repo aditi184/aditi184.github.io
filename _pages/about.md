@@ -36,11 +36,62 @@ My research interests lie in making language technologies more representative an
     </div>
     <div class="col-lg-10">
         <p class="paper my-2 pl-2">
-            Our work on the <a class="in-text" href="https://arxiv.org/pdf/2601.05641" target="_blank">Transferability of Machine Unlearning across languages</a> in Multilingual LLMs got accepted to EACL 2026!
+            Our work on the <a class="in-text" href="https://arxiv.org/pdf/2601.05641" target="_blank">Transferability of Machine Unlearning across languages</a> in Multilingual LLMs got accepted at EACL 2026!
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2 my-auto">
+        <b> Dec 15, 2025</b>
+    </div>
+    <div class="col-lg-10">
+        <p class="paper my-2 pl-2">
+            Our <a class="in-text" href="https://arxiv.org/pdf/2504.07128" target="_blank">Thoughtology paper</a> nvestigating the reasoning chains-of-thoughts of the Large Reasoning Model DeepSeek-R1 got accepted in TMLR!
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2 my-auto">
+        <b> Dec 1, 2025</b>
+    </div>
+    <div class="col-lg-10">
+        <p class="paper my-2 pl-2">
+            Attending NeurIPS and WiML in San Diego to present my work on multilingual MoEs.
         </p>
     </div>
 </div>
 
+<div class="header-1 pt-5">Publications</div>
+<div class="header-1 pt-2"></div>
+<div class="row">
+    <div class="col-md-2 my-auto">
+        <img class="sideimg" lsrc="images/sides/unlearning.png">
+    </div>
+    <div class="col-lg-10">
+        <p class="paper my-2 pl-2">
+            <span class="papertitle">Multilingual Amnesia: On the Transferability of Unlearning in Multilingual LLMs</span><br>
+            Alireza Farashah, <span class="thisauthor">Aditi Khandelwal</span>, Marylou Fauchard, Zhuan Shi, Negar Rostamzadeh, Golnoosh Farnadi<br>
+            <b>EACL 2026</b><br>
+            <a class="tag" href="https://arxiv.org/pdf/2601.05641" target="_blank">pdf</a><span class="tagsep">|</span>
+            <a class="tag" href="https://github.com/alirezafarashah/multilingual_unlearning" target="_blank">code</a><span class="tagsep">|</span>
+            <a class="tag" href="https://arxiv.org/abs/2601.05641" target="_blank">abstract</a>
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-2 my-auto">
+        <img class="sideimg" lsrc="images/sides/emnlppaper.png">
+    </div>
+    <div class="col-lg-10">
+        <p class="paper my-2 pl-2">
+            <span class="papertitle">Ethical Reasoning over Moral Alignment: A Case and Framework for In-Context Ethical Policies in LLMs</span><br>
+             Abhinav Sukumar Rao, <span class="thisauthor">Aditi Khandelwal</span>, Kumar Tanmay, Utkarsh Agarwal, Monojit Choudhury<br>
+            <b>EMNLP 2023</b><br>
+            <a class="tag" href="https://aclanthology.org/2023.findings-emnlp.892.pdf" target="_blank">pdf</a><span class="tagsep">|</span>
+            <a class="tag" href="https://aclanthology.org/2023.findings-emnlp.892/" target="_blank">abstract</a>
+        </p>
+    </div>
+</div>
 
 
 

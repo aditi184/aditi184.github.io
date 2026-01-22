@@ -28,6 +28,22 @@ a:hover {
 
 .tag {
     padding-right: 2px;
+    color: #007;
+    text-decoration: underline dotted;
+}
+
+.tag:hover {
+    text-decoration: none;
+}
+
+.papertitle {
+    font-weight: 400;
+    color: #007;
+}
+
+.thisauthor {
+    color: #111;
+    font-weight: 400;
 }
 
 .confshort {
@@ -69,6 +85,11 @@ a:hover {
     filter: grayscale(30%);
 }
 
+.sideimg {
+    width: 110%;
+    border: 1px solid #ccc;
+}
+
 @media (min-width: 768px) {
     .fixed-posi {
         /* width: 50%;
@@ -97,6 +118,10 @@ a:hover {
 
     .menur {
         padding-top: 18px !important;
+    }
+
+    .sideimg {
+        display: none;
     }
 
 }
