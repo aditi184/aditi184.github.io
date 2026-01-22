@@ -3,9 +3,15 @@
     filter: grayscale(20%);
 }
 
+/* Link styling - blue color with dotted underline */
+a {
+    color: #007 !important;
+    text-decoration: underline dotted !important;
+}
+
 a:hover {
     /* font-weight: 400; */
-    text-decoration: none;
+    text-decoration: none !important;
     transition-duration: 0.3s;
     transition-timing-function: linear;
     /* color: #444; */
