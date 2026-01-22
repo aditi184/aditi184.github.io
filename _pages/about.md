@@ -16,7 +16,31 @@ My research interests lie in making language technologies more representative an
 
 
 
-**On a mission to contribute to building AI that speaks every language’s truth, reflects cultural diversity, and ensures no voice gets lost in translation.**
+**On a mission to contribute to building AI that speaks every language's truth, reflects cultural diversity, and ensures no voice gets lost in translation.**
+
+<div class="header-1 pt-1">News</div>
+<div class="header-1 pt-2"></div>
+<div class="row">
+    <div class="col-lg-2 my-auto">
+        <b>Jan 11, 2026</b>
+    </div>
+    <div class="col-lg-10">
+        <p class="paper my-2 pl-2">
+            I am  visiting Prof. Antoine Bosselut's lab at EPFL till June to work on MoEs! 
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2 my-auto">
+        <b> Jan 15, 2026</b>
+    </div>
+    <div class="col-lg-10">
+        <p class="paper my-2 pl-2">
+            Our work on the <a class="in-text" href="https://arxiv.org/pdf/2601.05641" target="_blank">Transferability of Machine Unlearning across languages</a> in Multilingual LLMs got accepted to EACL 2026!
+        </p>
+    </div>
+</div>
+
 
 
 

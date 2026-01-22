@@ -43,6 +43,22 @@ a:hover {
     border-left: 1px solid #ddd;
 }
 
+.header-1 {
+    font-size: 18pt;
+    color: #007;
+    font-weight: 400;
+}
+
+.in-text {
+    color: #007;
+    text-decoration: underline dotted;
+}
+
+.in-text:hover {
+    text-decoration: none;
+    color: #005;
+}
+
 .menulink:hover {
     color: #111;
 }
