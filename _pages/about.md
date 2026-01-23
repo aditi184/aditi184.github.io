@@ -16,6 +16,8 @@ Before starting my Ph.D., I spent two years at Microsoft in the Turing Team, wor
 
 I earned my bachelor's degree in Electrical Engineering at the Indian Institute of Technology Delhi. During my undergraduate studies, I interned at <span style="color:rgb(1, 17, 74);">Microsoft</span>, <span style="color:rgb(1, 17, 74);">Amazon</span>, and <span style="color:rgb(1, 17, 74);">Siemens</span>, working on various aspects of building and deploying real-world machine learning systems, and received the <b>Best Bachelor's Thesis Award</b> for my work on scaling Graph Neural Networks 🏆.
 
+If you are interested in similar research directions or would like to explore potential collaborations, feel free to reach out via <a href="mailto:aditi184@gmail.com">email</a>. For more details about my background and prior work, please see my CV.
+
 
 <!-- on human-values alignment, ethical reasoning, value pluralism and foreign language effect in large language models (LLMs). I also contributed to building Bing Copilot Chat, focusing on conversation quality evaluations, developing and training next user message suggestions models, and worked on training of the state-of-the-art Visual Document Understanding model at Microsoft Turing. Before joining Microsoft, I completed my bachelor degree in Electrical Engineering from the Indian Institute of Technology Delhi. -->
 
