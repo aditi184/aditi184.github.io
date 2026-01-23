@@ -3,10 +3,10 @@
     filter: grayscale(20%);
 }
 
-/* Link styling - blue color with dotted underline */
+/* Link styling - blue color */
 a {
     color: #007 !important;
-    text-decoration: underline dotted !important;
+    text-decoration: none !important;
 }
 
 a:hover {
@@ -29,7 +29,7 @@ a:hover {
 .tag {
     padding-right: 2px;
     color: #007;
-    text-decoration: underline dotted;
+    text-decoration: none;
 }
 
 .tag:hover {
@@ -67,7 +67,7 @@ a:hover {
 
 .in-text {
     color: #007;
-    text-decoration: underline dotted;
+    text-decoration: none;
 }
 
 .in-text:hover {

@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "sides/mainpic.png"
+  avatar           : "sides/mainpic2.png"
   name             : "Aditi Khandelwal"
   pronouns         : "she/her"  
   bio              : "Computer Science Ph.D. Student at McGill"

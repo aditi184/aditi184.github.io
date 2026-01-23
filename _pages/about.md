@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Aditi, a second-year Computer Science Ph.D. student at McGill University and MILA – Quebec AI Institute, advised by Prof. Siva Reddy and Prof. Golnoosh Farnadi.
+Hi! I'm Aditi, a second-year Computer Science Ph.D. student at McGill University and <a href="https://mila.quebec/en" target="_blank">MILA – Quebec AI Institute</a>, advised by <a href="https://sivareddy.in/home.html" target="_blank">Prof. Siva Reddy</a> and <a href="https://gfarnadi.github.io/" target="_blank">Prof. Golnoosh Farnadi</a>.
  
 I believe AI becomes truly transformative for all only when state-of-the-art capabilities are democratized across the full diversity of human languages, cultures, and modes of interaction. Motivated by this vision, my research focuses on understanding and advancing the scaling of multilingual and multimodal models across heterogeneous human data.  More recently, I have been studying expert specialization and capacity allocation in Mixture-of-Experts models for multilingual and multimodal settings.
 
-Before starting my Ph.D., I spent two years at Microsoft in the Turing Team, working with Prof. Monojit Choudhury. There, I worked on ethical reasoning and pluralistic human-values alignment in LLMs, contributed to building Bing Copilot Chat, and trained state-of-the-art Visual Document Understanding models.
+Before starting my Ph.D., I spent two years at Microsoft in the Turing Team, working with <a href="https://mbzuai.ac.ae/study/faculty/monojit-choudhury/" target="_blank">Prof. Monojit Choudhury</a>. There, I worked on ethical reasoning and pluralistic human-values alignment in LLMs, contributed to building <a href="https://copilot.microsoft.com/" target="_blank">Bing Copilot Chat</a>, and trained state-of-the-art Visual Document Understanding models.
 
-I earned my bachelor’s degree in Electrical Engineering at the Indian Institute of Technology Delhi. During my undergraduate studies, I interned at Microsoft, Amazon, and Siemens, working on various aspects of building and deploying real-world machine learning systems, and received the Best Bachelor’s Thesis Award for my work on scaling Graph Neural Networks.
+I earned my bachelor's degree in Electrical Engineering at the Indian Institute of Technology Delhi. During my undergraduate studies, I interned at <span style="color:rgb(1, 17, 74);">Microsoft</span>, <span style="color:rgb(1, 17, 74);">Amazon</span>, and <span style="color:rgb(1, 17, 74);">Siemens</span>, working on various aspects of building and deploying real-world machine learning systems, and received the <b>Best Bachelor's Thesis Award</b> for my work on scaling Graph Neural Networks 🏆.
 
 
 <!-- on human-values alignment, ethical reasoning, value pluralism and foreign language effect in large language models (LLMs). I also contributed to building Bing Copilot Chat, focusing on conversation quality evaluations, developing and training next user message suggestions models, and worked on training of the state-of-the-art Visual Document Understanding model at Microsoft Turing. Before joining Microsoft, I completed my bachelor degree in Electrical Engineering from the Indian Institute of Technology Delhi. -->
@@ -33,8 +33,8 @@ I earned my bachelor’s degree in Electrical Engineering at the Indian Institut
     </div>
     <div class="col-lg-10">
         <p class="paper my-2 pl-2">
-            I am  visiting Prof. Antoine Bosselut's lab at EPFL till June to work on MoEs! 
-        </p>
+            I am  visiting Prof. Antoine Bosselut's lab at EPFL in Switzerland to work on MoEs 🇨🇭! 
+        </p
     </div>
 </div>
 <div class="row">
@@ -43,7 +43,7 @@ I earned my bachelor’s degree in Electrical Engineering at the Indian Institut
     </div>
     <div class="col-lg-10">
         <p class="paper my-2 pl-2">
-            Our work on the <a class="in-text" href="https://arxiv.org/pdf/2601.05641" target="_blank">Transferability of Machine Unlearning across languages</a> in Multilingual LLMs got accepted at EACL 2026!
+            Our work on the <a class="in-text" href="https://arxiv.org/pdf/2601.05641" target="_blank">Transferability of Machine Unlearning across languages</a> in Multilingual LLMs got accepted at EACL 2026 🇲🇦!
         </p>
     </div>
 </div>
@@ -53,7 +53,7 @@ I earned my bachelor’s degree in Electrical Engineering at the Indian Institut
     </div>
     <div class="col-lg-10">
         <p class="paper my-2 pl-2">
-            Our <a class="in-text" href="https://arxiv.org/pdf/2504.07128" target="_blank">Thoughtology paper</a> nvestigating the reasoning chains-of-thoughts of the Large Reasoning Model DeepSeek-R1 got accepted in TMLR!
+            Our <a class="in-text" href="https://arxiv.org/pdf/2504.07128" target="_blank">Thoughtology paper</a> investigating the reasoning chains-of-thoughts of the Large Reasoning Model DeepSeek-R1 got accepted in TMLR!
         </p>
     </div>
 </div>
@@ -63,7 +63,7 @@ I earned my bachelor’s degree in Electrical Engineering at the Indian Institut
     </div>
     <div class="col-lg-10">
         <p class="paper my-2 pl-2">
-            Attending NeurIPS and WiML in San Diego to present my work on multilingual MoEs.
+            I am at NeurIPS and WiML in San Diego to present my work on multilingual MoEs 🇺🇸.
         </p>
     </div>
 </div>
