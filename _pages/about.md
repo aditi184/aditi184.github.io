@@ -34,7 +34,7 @@ I earned my bachelor's degree in Electrical Engineering at the Indian Institute 
     <div class="col-lg-10">
         <p class="paper my-2 pl-2">
             I am  visiting Prof. Antoine Bosselut's lab at EPFL in Switzerland to work on MoEs 🇨🇭! 
-        </p
+        </p>
     </div>
 </div>
 <div class="row">
