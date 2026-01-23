@@ -65,7 +65,7 @@ My research interests lie in making language technologies more representative an
 <div class="header-1 pt-2"></div>
 <div class="row">
     <div class="col-md-2 my-auto">
-        <img class="sideimg" src="images/sides/unlearning.png">
+        <img class="sideimg" src="/images/sides/unlearning.png">
     </div>
     <div class="col-lg-10">
         <p class="paper my-2 pl-2">
@@ -80,7 +80,7 @@ My research interests lie in making language technologies more representative an
 </div>
 <div class="row">
     <div class="col-md-2 my-auto">
-        <img class="sideimg" src="images/sides/emnlppaper.png">
+        <img class="sideimg" src="/images/sides/emnlppaper.png">
     </div>
     <div class="col-lg-10">
         <p class="paper my-2 pl-2">
