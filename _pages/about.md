@@ -94,7 +94,7 @@ If you are interested in similar research directions or would like to explore po
     <div class="col-lg-10">
         <p class="paper my-2 pl-2">
             <span class="papertitle">DeepSeek-R1 Thoughtology: Let's think about LLM Reasoning</span><br>
-            Sara Vera Marjanović, Arkil Patel, Vaibhav Adlakha, Milad Aghajohari, Parishad BehnamGhader, Mehar Bhatia, <span class="thisauthor">Aditi Khandelwal</span>, Austin Kraft, Benno Krojer, Xing Han Lù, Nicholas Meade, Dongchan Shin, Amirhossein Kazemnejad, Gaurav Kamath, Marius Mosbach, Karolina Stańczak, Siva Reddy<br>
+            Sara Vera Marjanović, Arkil Patel, Vaibhav Adlakha, Milad Aghajohari, Parishad BehnamGhader, Mehar Bhatia, <span class="thisauthor">Aditi Khandelwal</span>,..., Marius Mosbach, Karolina Stańczak, Siva Reddy<br>
             <b>arXiv preprint arXiv:2504.07128, 2025</b><br>
             <a class="tag" href="https://arxiv.org/pdf/2504.07128" target="_blank">pdf</a><span class="tagsep">|</span>
             <a class="tag" href="https://arxiv.org/abs/2504.07128" target="_blank">abstract</a>
@@ -112,6 +112,20 @@ If you are interested in similar research directions or would like to explore po
             <b>EACL 2024</b><br>
             <a class="tag" href="https://aclanthology.org/2024.eacl-long.176.pdf" target="_blank">pdf</a><span class="tagsep">|</span>
             <a class="tag" href="https://aclanthology.org/2024.eacl-long.176/" target="_blank">abstract</a>
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-2 my-auto">
+        <img class="sideimg" src="{{ '/images/sides/multihop.png' | relative_url }}" alt="EMNLP 2024 Findings paper">
+    </div>
+    <div class="col-lg-10">
+        <p class="paper my-2 pl-2">
+            <span class="papertitle">Cross-lingual multi-hop knowledge editing</span><br>
+            <span class="thisauthor">Aditi Khandelwal</span>, Harman Singh, Hengrui Gu, Tianlong Chen, Kaixiong Zhou<br>
+            <b>Findings of EMNLP 2024</b><br>
+            <a class="tag" href="https://aclanthology.org/2024.findings-emnlp.701.pdf" target="_blank">pdf</a><span class="tagsep">|</span>
+            <a class="tag" href="https://aclanthology.org/2024.findings-emnlp.701/" target="_blank">abstract</a>
         </p>
     </div>
 </div>
