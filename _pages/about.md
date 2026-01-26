@@ -89,6 +89,20 @@ If you are interested in similar research directions or would like to explore po
 </div>
 <div class="row">
     <div class="col-md-2 my-auto">
+        <img class="sideimg" src="{{ '/images/sides/eacl2024paper.png' | relative_url }}" alt="EACL 2024 paper">
+    </div>
+    <div class="col-lg-10">
+        <p class="paper my-2 pl-2">
+            <span class="papertitle">Do Moral Judgment and Reasoning Capability of LLMs Change with Language? A Study using the Multilingual Defining Issues Test</span><br>
+            <span class="thisauthor">Aditi Khandelwal</span>, Utkarsh Agarwal, Kumar Tanmay, Monojit Choudhury<br>
+            <b>EACL 2024</b><br>
+            <a class="tag" href="https://aclanthology.org/2024.eacl-long.176.pdf" target="_blank">pdf</a><span class="tagsep">|</span>
+            <a class="tag" href="https://aclanthology.org/2024.eacl-long.176/" target="_blank">abstract</a>
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-2 my-auto">
         <img class="sideimg" src="{{ '/images/sides/emnlppaper.png' | relative_url }}" alt="EMNLP paper">
     </div>
     <div class="col-lg-10">
