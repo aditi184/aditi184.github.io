@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Aditi, a second-year Computer Science Ph.D. student at McGill University and <a href="https://mila.quebec/en" target="_blank">MILA – Quebec AI Institute</a>, advised by <a href="https://sivareddy.in/home.html" target="_blank">Prof. Siva Reddy</a> and <a href="https://gfarnadi.github.io/" target="_blank">Prof. Golnoosh Farnadi</a>.
- 
-I believe AI becomes truly transformative for all only when state-of-the-art capabilities are democratized across the full diversity of human languages, cultures, and modes of interaction. Motivated by this vision, my research focuses on understanding and advancing the scaling of multilingual and multimodal models across heterogeneous human data.  More recently, I have been studying expert specialization and capacity allocation in Mixture-of-Experts models for multilingual and multimodal settings.
+Hi! I'm Aditi, a second-year Computer Science Ph.D. student at McGill University and <a href="https://mila.quebec/en" target="_blank">MILA – Quebec AI Institute</a>, advised by <a href="https://sivareddy.in/home.html" target="_blank">Prof. Siva Reddy</a> and <a href="https://gfarnadi.github.io/" target="_blank">Prof. Golnoosh Farnadi</a>. I work on multilingual and multimodal LLMS.
 
 Before starting my Ph.D., I spent two years at Microsoft in the Turing Team, working with <a href="https://mbzuai.ac.ae/study/faculty/monojit-choudhury/" target="_blank">Prof. Monojit Choudhury</a>. There, I worked on ethical reasoning and pluralistic human-values alignment in LLMs, contributed to building <a href="https://copilot.microsoft.com/" target="_blank">Bing Copilot Chat</a>, and trained state-of-the-art Visual Document Understanding models.
 
