@@ -15,6 +15,9 @@ layout: compress
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <link rel="stylesheet" href="{{ '/assets/css/minimal-style.css' | relative_url }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.4/css/academicons.min.css">
+    <style>.menulink .ico{width:1.3em;text-align:center;margin-right:.45em;}</style>
       
     <title>{{ site.title }}</title>
   </head>
@@ -33,16 +36,16 @@ layout: compress
                   {% endif %}
                 </div>
                 {% if site.author.googlescholar %}
-                <div class=""><a class="menulink" target="_blank" href="{{ site.author.googlescholar }}">google scholar</a></div>
+                <div class=""><a class="menulink" target="_blank" href="{{ site.author.googlescholar }}"><i class="ai ai-google-scholar ico" aria-hidden="true"></i>google scholar</a></div>
                 {% endif %}
                 {% if site.author.email %}
-                <div class=""><a class="menulink" target="_blank" href="mailto:{{ site.author.email }}">email address</a></div>
+                <div class=""><a class="menulink" target="_blank" href="mailto:{{ site.author.email }}"><i class="fa-solid fa-envelope ico" aria-hidden="true"></i>email address</a></div>
                 {% endif %}
                 {% if site.author.github %}
-                <div class=""><a class="menulink" target="_blank" href="https://github.com/{{ site.author.github }}">github profile</a></div>
+                <div class=""><a class="menulink" target="_blank" href="https://github.com/{{ site.author.github }}"><i class="fa-brands fa-github ico" aria-hidden="true"></i>github profile</a></div>
                 {% endif %}
                 {% if site.author.linkedin %}
-                <div class=""><a class="menulink" target="_blank" href="https://www.linkedin.com/in/{{ site.author.linkedin }}/">linkedin</a></div>
+                <div class=""><a class="menulink" target="_blank" href="https://www.linkedin.com/in/{{ site.author.linkedin }}/"><i class="fa-brands fa-linkedin ico" aria-hidden="true"></i>linkedin</a></div>
                 {% endif %}
                 {% if site.author.twitter %}
                 <div class=""><a class="menulink" target="_blank" href="https://twitter.com/{{ site.author.twitter }}">twitter</a></div>
