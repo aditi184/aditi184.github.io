@@ -72,7 +72,7 @@ If you are interested in similar research directions or would like to explore po
 <div class="header-1 pt-2"></div>
 <div class="row">
     <div class="col-md-2 my-auto">
-        <!-- add a thumbnail: <img class="sideimg" src="{{ '/images/sides/scalinglaws.png' | relative_url }}" alt="Multimodal scaling laws paper"> -->
+        <img class="sideimg" src="{{ '/images/sides/scalinglaws.png' | relative_url }}" alt="Multimodal scaling laws paper">
     </div>
     <div class="col-lg-10">
         <p class="paper my-2 pl-2">
@@ -86,7 +86,7 @@ If you are interested in similar research directions or would like to explore po
 </div>
 <div class="row">
     <div class="col-md-2 my-auto">
-        <!-- add a thumbnail: <img class="sideimg" src="{{ '/images/sides/moerouting.png' | relative_url }}" alt="MoE routing paper"> -->
+        <img class="sideimg" src="{{ '/images/sides/moerouting.png' | relative_url }}" alt="MoE routing paper">
     </div>
     <div class="col-lg-10">
         <p class="paper my-2 pl-2">
@@ -94,6 +94,7 @@ If you are interested in similar research directions or would like to explore po
             <span class="thisauthor">Aditi Khandelwal</span>, Marius Mosbach, Verna Dankers, Siva Reddy, Golnoosh Farnadi<br>
             <b>EMNLP 2026</b><br>
             <a class="tag" href="https://aclanthology.org/2026.emnlp-main.2407.pdf" target="_blank">pdf</a><span class="tagsep">|</span>
+            <a class="tag" href="https://github.com/aditi184/moe-routing-adaptation" target="_blank">code</a><span class="tagsep">|</span>
             <a class="tag" href="https://aclanthology.org/2026.emnlp-main.2407/" target="_blank">abstract</a>
         </p>
     </div>
