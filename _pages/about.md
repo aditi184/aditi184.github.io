@@ -33,7 +33,17 @@ If you are interested in similar research directions or would like to explore po
     </div>
     <div class="col-lg-10">
         <p class="paper my-2 pl-2">
-            I attended EMNLP 2026 in Budapest to present my <a class="in-text" href="https://aclanthology.org/2026.emnlp-main.2407/" target="_blank">MoE paper</a> 🇭🇺!
+            Presented our paper on <a class="in-text" href="https://aclanthology.org/2026.emnlp-main.2407/" target="_blank">leveraging routing dynamics in MoEs for efficient language adaptation</a> at EMNLP 2026 in Budapest 🇭🇺!
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2 my-auto">
+        <b>Sep 24, 2026</b>
+    </div>
+    <div class="col-lg-10">
+        <p class="paper my-2 pl-2">
+            Our paper <a class="in-text" href="https://arxiv.org/abs/2610.14423" target="_blank">Scaling Laws for Multimodal Data Mixtures</a> was accepted as a spotlight at NeurIPS 2026 🏆!
         </p>
     </div>
 </div>
@@ -43,7 +53,7 @@ If you are interested in similar research directions or would like to explore po
     </div>
     <div class="col-lg-10">
         <p class="paper my-2 pl-2">
-            I was awarded the Mila Excellence Scholarship in Research, worth $24K 🎉!
+            Received a Mila EDI Scholarship (EDI in Research category), totalling $24,000 🎉!
         </p>
     </div>
 </div>
