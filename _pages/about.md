@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Aditi, a second-year Computer Science Ph.D. student at McGill University and <a href="https://mila.quebec/en" target="_blank">MILA – Quebec AI Institute</a>, advised by <a href="https://siva[...] 
+Hi! I'm Aditi, a second-year Computer Science Ph.D. student at McGill University and <a href="https://mila.quebec/en" target="_blank">MILA – Quebec AI Institute</a>, advised by <a href="https://sivareddy.in/home.html" target="_blank">Prof. Siva Reddy</a> and <a href="https://gfarnadi.github.io/" target="_blank">Prof. Golnoosh Farnadi</a>. My research focuses on bridging pretraining and post-training in language and multimodal models, particularly Mixture-of-Experts (MoEs).
 
-Before starting my Ph.D., I spent two years at Microsoft in the Turing Team, working with <a href="https://mbzuai.ac.ae/study/faculty/monojit-choudhury/" target="_blank">Prof. Monojit Choudhury</a>. T[...]
+Before starting my Ph.D., I spent two years at Microsoft in the Turing Team, working with <a href="https://mbzuai.ac.ae/study/faculty/monojit-choudhury/" target="_blank">Prof. Monojit Choudhury</a>. There, I worked on ethical reasoning and pluralistic human-values alignment in LLMs, contributed to building <a href="https://copilot.microsoft.com/" target="_blank">Bing Copilot Chat</a>, and trained state-of-the-art Visual Document Understanding models.
 
-I earned my bachelor's degree in Electrical Engineering at the Indian Institute of Technology Delhi. During my undergraduate studies, I interned at <span style="color:rgb(1, 17, 74);">Microsoft</span>[...]
+I earned my bachelor's degree in Electrical Engineering at the Indian Institute of Technology Delhi. During my undergraduate studies, I interned at <span style="color:rgb(1, 17, 74);">Microsoft</span>, <span style="color:rgb(1, 17, 74);">Amazon</span>, and <span style="color:rgb(1, 17, 74);">Siemens</span>, working on various aspects of building and deploying real-world machine learning systems, and received the <b>Best Bachelor's Thesis Award</b> for my work on scaling Graph Neural Networks 🏆.
 
-If you are interested in similar research directions or would like to explore potential collaborations, feel free to reach out via <a href="mailto:aditi184@gmail.com">email</a>. For more details about[...]
+If you are interested in similar research directions or would like to explore potential collaborations, feel free to reach out via <a href="mailto:aditi184@gmail.com">email</a>. For more details about my background and prior work, please see my CV.
 
 
-<!-- on human-values alignment, ethical reasoning, value pluralism and foreign language effect in large language models (LLMs). I also contributed to building Bing Copilot Chat, focusing on conversati[...]
+<!-- on human-values alignment, ethical reasoning, value pluralism and foreign language effect in large language models (LLMs). I also contributed to building Bing Copilot Chat, focusing on conversation quality evaluations, developing and training next user message suggestions models, and worked on training of the state-of-the-art Visual Document Understanding model at Microsoft Turing. Before joining Microsoft, I completed my bachelor degree in Electrical Engineering from the Indian Institute of Technology Delhi. -->
 
-<!-- My research interests lie in making language technologies more representative and adaptive to the complex interplay of languages and cultures. I aim to develop inclusive AI systems that equitably[...]
+<!-- My research interests lie in making language technologies more representative and adaptive to the complex interplay of languages and cultures. I aim to develop inclusive AI systems that equitably serve diverse global populations. I am also interested in plurastic human values alignment in LLMs. Additionally, I am passionate about expanding the general capabilities of language and multimodal models. -->
 
 
 
@@ -43,7 +43,7 @@ If you are interested in similar research directions or would like to explore po
     </div>
     <div class="col-lg-10">
         <p class="paper my-2 pl-2">
-            Our work on the <a class="in-text" href="https://arxiv.org/pdf/2601.05641" target="_blank">Transferability of Machine Unlearning across languages</a> in Multilingual LLMs got accepted at E[...]
+            Our work on the <a class="in-text" href="https://arxiv.org/pdf/2601.05641" target="_blank">Transferability of Machine Unlearning across languages</a> in Multilingual LLMs got accepted at EACL 2026 🇲🇦!
         </p>
     </div>
 </div>
@@ -53,7 +53,7 @@ If you are interested in similar research directions or would like to explore po
     </div>
     <div class="col-lg-10">
         <p class="paper my-2 pl-2">
-            Our <a class="in-text" href="https://arxiv.org/pdf/2504.07128" target="_blank">Thoughtology paper</a> investigating the reasoning chains-of-thoughts of the Large Reasoning Model DeepSeek-R[...]
+            Our <a class="in-text" href="https://arxiv.org/pdf/2504.07128" target="_blank">Thoughtology paper</a> investigating the reasoning chains-of-thoughts of the Large Reasoning Model DeepSeek-R1 got accepted in TMLR!
         </p>
     </div>
 </div>
@@ -72,12 +72,13 @@ If you are interested in similar research directions or would like to explore po
 <div class="header-1 pt-2"></div>
 <div class="row">
     <div class="col-md-2 my-auto">
-        <img class="sideimg" src="{{ '/images/sides/neurips-spotlight.png' | relative_url }}" alt="NeurIPS spotlight paper">
+        <!-- add a thumbnail: <img class="sideimg" src="{{ '/images/sides/scalinglaws.png' | relative_url }}" alt="Multimodal scaling laws paper"> -->
     </div>
     <div class="col-lg-10">
         <p class="paper my-2 pl-2">
-            <span class="papertitle">Accepted at NeurIPS 2026 as a spotlight paper</span><br>
-            <b>NeurIPS 2026 Spotlight</b><br>
+            <span class="papertitle">Scaling Laws for Multimodal Data Mixtures</span><br>
+            <span class="thisauthor">Aditi Khandelwal</span>*, Ayush Kumar Tarun*, Yixuan Xu, Imanol Schlag, Golnoosh Farnadi, Siva Reddy, Luke Zettlemoyer, Antoine Bosselut<br>
+            <b>NeurIPS 2026</b> <span class="thisauthor">(Spotlight)</span><br>
             <a class="tag" href="https://arxiv.org/pdf/2610.14423" target="_blank">pdf</a><span class="tagsep">|</span>
             <a class="tag" href="https://arxiv.org/abs/2610.14423" target="_blank">abstract</a>
         </p>
@@ -85,14 +86,15 @@ If you are interested in similar research directions or would like to explore po
 </div>
 <div class="row">
     <div class="col-md-2 my-auto">
-        <img class="sideimg" src="{{ '/images/sides/emnlp-main.png' | relative_url }}" alt="EMNLP main conference paper">
+        <!-- add a thumbnail: <img class="sideimg" src="{{ '/images/sides/moerouting.png' | relative_url }}" alt="MoE routing paper"> -->
     </div>
     <div class="col-lg-10">
         <p class="paper my-2 pl-2">
-            <span class="papertitle">Accepted at EMNLP 2026 main conference</span><br>
-            <b>EMNLP 2026 Main Conference</b><br>
-            <a class="tag" href="https://arxiv.org/pdf/2605.29714" target="_blank">pdf</a><span class="tagsep">|</span>
-            <a class="tag" href="https://arxiv.org/abs/2605.29714" target="_blank">abstract</a>
+            <span class="papertitle">Leveraging Routing Dynamics in Mixture-of-Experts Models for Efficient Language Adaptation</span><br>
+            <span class="thisauthor">Aditi Khandelwal</span>, Marius Mosbach, Verna Dankers, Siva Reddy, Golnoosh Farnadi<br>
+            <b>EMNLP 2026</b><br>
+            <a class="tag" href="https://aclanthology.org/2026.emnlp-main.2407.pdf" target="_blank">pdf</a><span class="tagsep">|</span>
+            <a class="tag" href="https://aclanthology.org/2026.emnlp-main.2407/" target="_blank">abstract</a>
         </p>
     </div>
 </div>
@@ -118,7 +120,7 @@ If you are interested in similar research directions or would like to explore po
     <div class="col-lg-10">
         <p class="paper my-2 pl-2">
             <span class="papertitle">DeepSeek-R1 Thoughtology: Let's think about LLM Reasoning</span><br>
-            Sara Vera Marjanović, Arkil Patel, Vaibhav Adlakha, Milad Aghajohari, Parishad BehnamGhader, Mehar Bhatia, <span class="thisauthor">Aditi Khandelwal</span>,..., Marius Mosbach, Karolina S[...]
+            Sara Vera Marjanović, Arkil Patel, Vaibhav Adlakha, Milad Aghajohari, Parishad BehnamGhader, Mehar Bhatia, <span class="thisauthor">Aditi Khandelwal</span>,..., Marius Mosbach, Karolina Stańczak, Siva Reddy<br>
             <b>arXiv preprint arXiv:2504.07128, 2025</b><br>
             <a class="tag" href="https://arxiv.org/pdf/2504.07128" target="_blank">pdf</a><span class="tagsep">|</span>
             <a class="tag" href="https://arxiv.org/abs/2504.07128" target="_blank">abstract</a>
