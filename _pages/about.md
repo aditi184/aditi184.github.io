@@ -29,6 +29,26 @@ If you are interested in similar research directions or would like to explore po
 <div class="header-1 pt-2"></div>
 <div class="row">
     <div class="col-lg-2 my-auto">
+        <b>Oct 2026</b>
+    </div>
+    <div class="col-lg-10">
+        <p class="paper my-2 pl-2">
+            I attended EMNLP 2026 in Budapest to present my <a class="in-text" href="https://aclanthology.org/2026.emnlp-main.2407/" target="_blank">MoE paper</a> 🇭🇺!
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2 my-auto">
+        <b>Feb 2026</b>
+    </div>
+    <div class="col-lg-10">
+        <p class="paper my-2 pl-2">
+            I was awarded the Mila Excellence Scholarship in Research, worth $24K 🎉!
+        </p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-lg-2 my-auto">
         <b>Jan 11, 2026</b>
     </div>
     <div class="col-lg-10">
@@ -77,8 +97,8 @@ If you are interested in similar research directions or would like to explore po
     <div class="col-lg-10">
         <p class="paper my-2 pl-2">
             <span class="papertitle">Scaling Laws for Multimodal Data Mixtures</span><br>
-            <span class="thisauthor">Aditi Khandelwal</span>*, Ayush Kumar Tarun*, Yixuan Xu, Imanol Schlag, Golnoosh Farnadi, Siva Reddy, Luke Zettlemoyer, Antoine Bosselut<br>
-            <b>NeurIPS 2026</b> <span class="thisauthor">(Spotlight)</span><br>
+            <span class="thisauthor">Aditi Khandelwal</span>, Ayush Kumar Tarun, Yixuan Xu, Imanol Schlag, Golnoosh Farnadi, Siva Reddy, Luke Zettlemoyer, Antoine Bosselut<br>
+            <b>NeurIPS 2026</b> <span class="thisauthor">🏆 Spotlight</span><br>
             <a class="tag" href="https://arxiv.org/pdf/2610.14423" target="_blank">pdf</a><span class="tagsep">|</span>
             <a class="tag" href="https://arxiv.org/abs/2610.14423" target="_blank">abstract</a>
         </p>
@@ -122,7 +142,7 @@ If you are interested in similar research directions or would like to explore po
         <p class="paper my-2 pl-2">
             <span class="papertitle">DeepSeek-R1 Thoughtology: Let's think about LLM Reasoning</span><br>
             Sara Vera Marjanović, Arkil Patel, Vaibhav Adlakha, Milad Aghajohari, Parishad BehnamGhader, Mehar Bhatia, <span class="thisauthor">Aditi Khandelwal</span>,..., Marius Mosbach, Karolina Stańczak, Siva Reddy<br>
-            <b>arXiv preprint arXiv:2504.07128, 2025</b><br>
+            <b>TMLR 2026</b><br>
             <a class="tag" href="https://arxiv.org/pdf/2504.07128" target="_blank">pdf</a><span class="tagsep">|</span>
             <a class="tag" href="https://arxiv.org/abs/2504.07128" target="_blank">abstract</a>
         </p>
